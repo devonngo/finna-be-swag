@@ -11,3 +11,8 @@ button {
 h1, h3, h6 {
   color: #fff;
 }
+
+p {
+  text-align: center;
+  line-height: 1;
+}
