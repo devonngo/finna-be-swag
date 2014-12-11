@@ -6,6 +6,7 @@ html, body, button {
 button {
   background: url('chlo.JPG');
   background-size: cover;
+  background-attachment: fixed;
 }
 
 h1, h3, h6 {
@@ -14,5 +15,9 @@ h1, h3, h6 {
 
 p {
   text-align: center;
-  line-height: 1;
+  line-height: .5;
+}
+
+#top {
+  line-height: 1.5;
 }
